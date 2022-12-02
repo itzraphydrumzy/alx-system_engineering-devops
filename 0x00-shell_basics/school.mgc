@@ -1,0 +1,3 @@
+#!/bin/bash
+vim*
+0 string SCHOOL School data !:mime School	
